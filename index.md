@@ -1,9 +1,6 @@
 
 # Ricardo Hinojoza's Portfolio
 
-I am a Eletrical Engineering major at CSUF and I plan on graduating in 2028.
-
-## Favorite CPSC 120L LABS
 # Hello World
 
 This is my home page! My name is Ricardo Hinojozaand I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Eletrical Engineering.
@@ -12,7 +9,7 @@ This is my home page! My name is Ricardo Hinojozaand I am a student at [Cal Stat
 
 My GitHub page is http://github.com/Rhinojoza.
 
-### CPSC 120
+### Favorite CPSC 120L LABS
 
 * Lab 7
 
