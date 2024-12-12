@@ -7,7 +7,7 @@ This is my home page! My name is Ricardo Hinojozaand I am a student at [Cal Stat
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/Rhinojoza.
+My GitHub page is (http://github.com/Rhinojoza).
 
 ### Favorite CPSC 120L LABS
 
