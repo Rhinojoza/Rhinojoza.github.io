@@ -7,7 +7,7 @@ This is my home page! My name is Ricardo Hinojozaand I am a student at [Cal Stat
 
 ## Computer Science Projects
 
-My GitHub page is [http://github.com/Rhinojoza] (http://github.com/Rhinojoza)
+My GitHub page is http://github.com/Rhinojoza .
 
 ### Favorite CPSC 120L LABS
 
@@ -21,4 +21,4 @@ My GitHub page is [http://github.com/Rhinojoza] (http://github.com/Rhinojoza)
 
 * Lab 11
 
-	Lab 11 part 2, was a very difficult lab for me at the time because of how many if statements there were paired with do and while loops which made it even more difficult. The purpose of the Lab was a guessing game where player 1 chose a number and player 2 would have 2 tries to guess the number with a given higher or lower given on the 1 try if failed. The difficulty of this lab came when it was time to code in order analyze the number and be able to recognize whether the number matched or not but because of the failure it was a very big relief when it did work. I enjoyed this lab because of the outcome I had with the code, it was a fun game to play that i showed to friends which is what I found fun out of it.
+	Lab 11 part 2, was a very difficult lab for me at the time because of how many if statements there were paired with do and while loops which made it even more difficult. The purpose of the Lab was a guessing game where player 1 chose a number and player 2 would have 2 tries to guess the number with a given higher or lower given on the 1 try if failed. The difficulty of this lab came when it was time to code in order analyze the number and be able to recognize whether the number matched or not but because of the failure it was a very big relief when it did work. I enjoyed this lab because of the outcome I had with the code, it was a fun game to play that i showed to friends which is what I found fun out of it
